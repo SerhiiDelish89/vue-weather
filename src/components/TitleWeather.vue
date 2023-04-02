@@ -6,6 +6,9 @@
 <script>
 export default{
     name: "TitleWeather",
+    props:{
+        type: String,
+    }
 }
 
 
